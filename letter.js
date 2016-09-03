@@ -1,0 +1,4 @@
+
+var Letter = function(letterFunction){
+	
+}

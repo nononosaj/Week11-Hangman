@@ -1,0 +1,4 @@
+
+var Word = function(wordFunction){
+	
+}
